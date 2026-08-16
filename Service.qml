@@ -355,7 +355,7 @@ Item {
 
     onError: function(error) {
       root.fingerprintAuthenticating = false
-    } 
+    }
   }
   Timer {
     id: fingerprintRetryTimer
