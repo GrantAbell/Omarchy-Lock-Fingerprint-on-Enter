@@ -37,6 +37,14 @@ Enable the plugin when prompted, then restart the Omarchy shell if necessary:
 omarchy-restart-shell
 ```
 
+## Removal
+
+```bash
+omarchy plugin remove grantabell.lock-fingerprint-on-enter
+```
+
+Removing the plugin restores Omarchy's built-in lock screen.
+
 ## Usage
 
 Lock your screen normally. The fingerprint reader will activate for the initial authentication period.
