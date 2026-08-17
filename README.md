@@ -62,3 +62,7 @@ Typing a password and pressing Enter still performs normal password authenticati
 ## License
 
 MIT
+
+---
+
+*This plugin was developed with AI assistance. Its lock screen code is derived from Omarchy's built-in lock plugin.*
